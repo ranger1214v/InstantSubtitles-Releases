@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "product": "即時譯幕",
+  "version": "2.0.0",
+  "buildNumber": 400,
+  "releaseDate": "2026-08-16",
+  "sourceBuildCommit": "f9b5fc49e6226621f2c87061674603cea5f167ef",
+  "sourceBuildShortCommit": "f9b5fc4",
+  "artifact": {
+    "fileName": "InstantSubtitles-2.0.0.dmg",
+    "sizeBytes": 10375316,
+    "sha256": "ef66a5b37499a920f44c5b2fd0e6c12d60367dafc4b2efbcb724eab9249d5f2b",
+    "signingIdentity": "Developer ID Application: WEI HUANG (X43NXRDDN6)",
+    "appleNotarization": "accepted",
+    "stapled": true
+  },
+  "officialDownloadURL": "https://ranger-instantly-translate-subtitles.web.app/download/InstantSubtitles-2.0.0.dmg",
+  "releaseNotes": "../release-notes/2.0.0.md"
+}
